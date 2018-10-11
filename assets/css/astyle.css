@@ -1,0 +1,9 @@
+.login-button {
+    width: 50%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    min-width: 1200px;
+    float: left;
+}
